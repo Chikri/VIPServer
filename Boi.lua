@@ -1,16 +1,9 @@
--- Guns Of Boom
--- By Chikri
 
-
-
-
-
--- Config
 ShowUI		= false
 MemRange	= gg.REGION_CODE_APP | gg.REGION_ANONYMOUS | gg.REGION_C_ALLOC
 ScriptSpeed = 350
 
--- Variable
+
 local sESP	= "On"
 local tw = "On"
 local fov = "On"
@@ -24,7 +17,6 @@ local bbah = "On"
 local grenade = "On"
 local speed = "On"
 
--- Require function
 function Int2Hex(int)
 	return string.format("%X", int)
 end
@@ -75,7 +67,6 @@ end
 
 
 
--- Main Code
 gg.setVisible(false)
 gg.clearResults()
 
@@ -520,7 +511,6 @@ end
 
 
 
--- End Of Main Code
 SetMemoryValue(mESP, gg.TYPE_BYTE, 0x00)
 PopupBox("Feeling good ?", "Don't forget to leave feedback !")
 os.exit()
