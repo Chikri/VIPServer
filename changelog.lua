@@ -4,3 +4,5 @@ Bugs Squashed
 Script Improvements
 
 Made By Chikri!!
+
+Please Support Me By Upvoting My Posts on GameGuardian Forum!
