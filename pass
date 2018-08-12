@@ -1,0 +1,4 @@
+pass = 2004
+
+v_value = gg.prompt({ "Password: "}, {[1] = 0}, {[1] = "number"})
+if v_value[1] == pass then creds() else start() end
