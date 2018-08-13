@@ -1,4 +1,4 @@
-Changelog For v1.9:
+Changelog For v1.8:
 New Server Auth
 Bugs Squashed
 Script Improvements
