@@ -1,8 +1,7 @@
-Changelog For v1.8:
-New Server Auth
-Bugs Squashed
-Script Improvements
-New Hacks
+Changelog For v1.9:
+Added Update Log
+Added Version of Script
+More Bugs Eliminated
 
 Made By Chikri!!
 
